@@ -1,0 +1,4 @@
+This is a server side for piHotKeys(old name is piCat) project.
+Supported OS: Windows
+A mobile side (piHotKeys) use this server to control PC
+piServer provide a connection over local network (Wi-Fi) or USB. adb used to support USB connection 
