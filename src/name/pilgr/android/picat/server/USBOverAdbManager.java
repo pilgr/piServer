@@ -12,7 +12,6 @@ import java.io.IOException;
 import java.util.HashMap;
 
 /**
- * Created by Samsung Electronics Company Ltd. SURC
  * User: Aleksey Masny [o.masnyi]
  * Date: 31.08.11
  * Time: 8:14
